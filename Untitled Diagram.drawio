@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T03:38:17.986Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="p_iwJk409NlclDVsUF3A" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T03:46:35.332Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Z6VyfKFK1k6l5OLQYdbc" version="14.2.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="867" dy="516" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="488" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,7 +144,7 @@
         <mxCell id="aNxNYfZ75736Q1pXCk_l-83" value="前端查不到日志的，我再查询确认一遍" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fillColor=none;gradientColor=none;size=30;position=0.25;position2=0.17;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aNxNYfZ75736Q1pXCk_l-84" value="1.&lt;b&gt;功能&lt;/b&gt;是否上线不知道，&lt;br&gt;&amp;nbsp; &amp;nbsp; 你去找运维；&lt;br&gt;2.现场&lt;b&gt;版本&lt;/b&gt;不知道，&lt;br&gt;&amp;nbsp; &amp;nbsp; 你去找运维；&lt;br&gt;3.&lt;b&gt;日志&lt;/b&gt;不用查，口头告诉你功能支持，&lt;br&gt;&amp;nbsp; &amp;nbsp; 要查你去找运维；" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fillColor=none;gradientColor=none;size=30;position=0.67;position2=0.71;base=19;direction=west;portConstraint=south;align=left;" vertex="1" parent="1">
+        <mxCell id="aNxNYfZ75736Q1pXCk_l-84" value="1.&lt;b&gt;功能&lt;/b&gt;是否上线不知道，&lt;br&gt;&amp;nbsp; &amp;nbsp; 你去找运维；&lt;br&gt;2.现场 &lt;b&gt;平台、&lt;/b&gt;&lt;b&gt;版本&lt;/b&gt;不知道，&lt;br&gt;&amp;nbsp; &amp;nbsp; 你去找运维；&lt;br&gt;3.&lt;b&gt;日志&lt;/b&gt;不用查，口头告诉你功能支持，&lt;br&gt;&amp;nbsp; &amp;nbsp; 要查你去找运维；" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fillColor=none;gradientColor=none;size=30;position=0.67;position2=0.71;base=19;direction=west;portConstraint=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="520" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
