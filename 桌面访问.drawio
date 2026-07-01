@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="T8uiNhrUopkWCVpYxoxP">
-    <mxGraphModel>
+    <mxGraphModel dx="876" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-5" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IppwEbJk88AcCP7vxcGJ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-7" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IppwEbJk88AcCP7vxcGJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Citrix 客户端" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="内网云桌面" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="外网云桌面" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-9" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IppwEbJk88AcCP7vxcGJ-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-10" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IppwEbJk88AcCP7vxcGJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="深信服盒子" vertex="1">
+          <mxGeometry height="60" width="120" x="34" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="内网云桌面" vertex="1">
+          <mxGeometry height="60" width="120" x="644" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-15" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" target="IppwEbJk88AcCP7vxcGJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="外网云桌面" vertex="1">
+          <mxGeometry height="60" width="120" x="204" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-17" edge="1" parent="1" source="IppwEbJk88AcCP7vxcGJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IppwEbJk88AcCP7vxcGJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-14" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="VPN" vertex="1">
+          <mxGeometry height="80" width="120" x="224" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Citrix" vertex="1">
+          <mxGeometry height="80" width="120" x="434" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="IppwEbJk88AcCP7vxcGJ-18" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4" y="240" as="sourcePoint" />
+            <mxPoint x="824" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
